@@ -5,7 +5,7 @@ format: jb-book
 root: intro-jupyter-template
 chapters:
 - file: CEMS Global Flood meeting-session 2 part 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store
-- file: CEMS Global Flood meeting-session 2 part 2 - CEMS Global Flood meeting-session 2 part 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store
+- file: CEMS Global Flood meeting-session 2 part 2 - Best Practices
 - file: CEMS Global Flood meeting-session 2 part 3 - Observations VS Simulations
 
 
