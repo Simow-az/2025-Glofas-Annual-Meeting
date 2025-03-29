@@ -1,12 +1,15 @@
-# Welcome to your Jupyter Book
-This repository is created for glofas annual meeting interactive sessions
+# Welcome to the Interactive Sessions of the 4th CEMS Global Flood Meeting
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This repository is created for the interactive sessions of the 4th CEMS Global Flood Meeting.
+It features three Jupyter Notebooks that we will explore during today's session:
 
-Check out the content pages bundled with this sample book to see more.
+* Accessing and Downloading GloFAS Data from the CEMS Early Warning Data Store (EWDS)
+
+* Best Practices for Downloading GloFAS Data via the CEMS EWDS
+
+* Mapping Discharge Gauge Stations to GloFAS Grid Cells
+
+These notebooks are designed to provide hands-on experience with accessing, working with, and understanding GloFAS data .
 
 ```{tableofcontents}
 ```
