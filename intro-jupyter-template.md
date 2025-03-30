@@ -1,4 +1,3 @@
-![header](img/header.PNG)
 # Welcome to the Interactive Session of the 4th CEMS Global Flood Meeting
 
 This repository is created for the interactive session of the 4th CEMS Global Flood Meeting.
