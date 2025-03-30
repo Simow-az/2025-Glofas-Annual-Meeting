@@ -1,6 +1,7 @@
-# Welcome to the Interactive Sessions of the 4th CEMS Global Flood Meeting
+![header](iheader.PNG)
+# Welcome to the Interactive Session of the 4th CEMS Global Flood Meeting
 
-This repository is created for the interactive sessions of the 4th CEMS Global Flood Meeting.
+This repository is created for the interactive session of the 4th CEMS Global Flood Meeting.
 It features three Jupyter Notebooks that we will explore during today's session:
 
 * Accessing and Downloading GloFAS Data from the CEMS Early Warning Data Store (EWDS)
