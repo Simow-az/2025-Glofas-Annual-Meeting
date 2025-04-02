@@ -6,3 +6,9 @@ dependencies:
   - matplotlib
   - cartopy
   - jupyterlab-myst
+  - os
+  - glob 
+  - tqdm
+  - pandas
+  - scipy
+  - datetime
