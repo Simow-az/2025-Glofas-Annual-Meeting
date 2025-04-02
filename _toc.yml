@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro-jupyter-template
+root: Welcome
 chapters:
 - file: CEMS Global Flood meeting-session 2 part 1 - Accessing and downloading GloFAS data from CEMS Early Warning Data Store
 - file: CEMS Global Flood meeting-session 2 part 2 - Best Practices
